@@ -1,7 +1,7 @@
 # Android_Kotlin_Synology_Chat_Webhook
 
-<img src="https://github.com/JasonWangIdv/Android_Kotlin_Synology_Chat_Webhook/blob/master/screenshot/Screenshot_1538621764.png" width="50%" height="50%">
-<img scr="https://github.com/JasonWangIdv/Android_Kotlin_Synology_Chat_Webhook/blob/master/screenshot/Screenshot_1538621765.png" width="50%" height="50%">
+<img src="https://github.com/JasonWangIdv/Android_Kotlin_Synology_Chat_Webhook/blob/master/screenshot/Screenshot_1538621764.png" width="50%" height="50%">  
+<img src="https://github.com/JasonWangIdv/Android_Kotlin_Synology_Chat_Webhook/blob/master/screenshot/Screenshot_1538621765.png" width="50%" height="50%">  
 
 # Reference
 * [kotlin 之 Handler 与 Thread](https://blog.csdn.net/duke_knight/article/details/72900814)
